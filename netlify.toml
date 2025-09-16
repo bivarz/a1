@@ -1,6 +1,6 @@
 [build]
 command = "ng build --configuration=production"
-publish = "dist/certificate-generator/browser"
+publish = "dist/a1-app/browser"
 
 [[redirects]]
 from = "/*"
